@@ -1,0 +1,76 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio cache/options directory
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+
+# MSTest test results
+TestResults/
+
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.cache
+
+# Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+.nuget/packages/
+
+# Azure Functions
+bin/**
+obj/**
+
+# Store secrets
+secrets.json
+
+# Lock files
+project.lock.json
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac
+*.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
