@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessorSample", "OrderProcessorSample\OrderProcessorSample.csproj", "{63B56087-921F-35BC-3B6C-FC21566F709C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessorSample.Tests", "OrderProcessorSample.Tests\OrderProcessorSample.Tests.csproj", "{DDCA8879-BB78-9A4A-FAE1-5BA7AB5267FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B56087-921F-35BC-3B6C-FC21566F709C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B56087-921F-35BC-3B6C-FC21566F709C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B56087-921F-35BC-3B6C-FC21566F709C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B56087-921F-35BC-3B6C-FC21566F709C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCA8879-BB78-9A4A-FAE1-5BA7AB5267FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCA8879-BB78-9A4A-FAE1-5BA7AB5267FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCA8879-BB78-9A4A-FAE1-5BA7AB5267FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCA8879-BB78-9A4A-FAE1-5BA7AB5267FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AC5423-715E-4C49-9862-1570E2664EB6}
+	EndGlobalSection
+EndGlobal
